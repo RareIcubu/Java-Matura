@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jakub
- *
- */
-module Test {
-}
